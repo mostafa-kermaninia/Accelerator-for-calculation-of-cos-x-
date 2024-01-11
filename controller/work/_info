@@ -1,0 +1,108 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit
+vcontroller
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1704786230
+!i10b 1
+!s100 cgAa`Sb<<[d?_oJ14J<eO1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=FkDn_WZbKf[l^8GX]k0F2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller
+w1704767898
+8C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller.sv
+FC:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller.sv
+!i122 0
+L0 2 68
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1704786230.000000
+!s107 C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vcontroller2
+R1
+!i10b 1
+!s100 aE8hZa@nBCTN_@i?4PVAT3
+R2
+I;Mgm<aB0>IZ7nmESTYBlX2
+R3
+R4
+Z9 w1704772589
+Z10 8C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller.vo
+Z11 FC:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller.vo
+!i122 1
+L0 32 769
+R5
+r1
+!s85 0
+31
+R6
+Z12 !s107 C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller.vo|
+Z13 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller.vo|
+!i113 1
+Z14 o-work work
+R8
+vcontroller_TB
+R0
+!s110 1704786231
+!i10b 1
+!s100 0__nWh1zE:9BGXk_W3DE`3
+R2
+I=0HL=QM78_f_1:Un6[WCC0
+R3
+S1
+R4
+w1704772395
+8C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller_TB.sv
+FC:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller_TB.sv
+!i122 2
+L0 2 61
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/controller/controller_TB.sv|
+!i113 1
+R7
+R8
+ncontroller_@t@b
+vhard_block
+R1
+!i10b 1
+!s100 5CT@QLlRM0WFNjKPdVkAb2
+R2
+I4mcMj?]2N`?U?A1]jfTQ:3
+R3
+R4
+R9
+R10
+R11
+!i122 1
+L0 802 34
+R5
+r1
+!s85 0
+31
+R6
+R12
+R13
+!i113 1
+R14
+R8

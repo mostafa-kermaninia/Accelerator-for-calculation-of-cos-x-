@@ -1,0 +1,114 @@
+C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/ROM.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/ROM.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/adder.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/adder.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/comparator.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/comparator.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator
+
+Top level modules:
+	comparator
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/four_bit_counter.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/four_bit_counter.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module four_bit_counter
+
+Top level modules:
+	four_bit_counter
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/reg_16.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/reg_16.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_16
+
+Top level modules:
+	reg_16
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/controller.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/controller.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/DP.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/DP.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DP
+
+Top level modules:
+	DP
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/toggle_FF.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/toggle_FF.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module toggle_FF
+
+Top level modules:
+	toggle_FF
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/four_MUX.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/four_MUX.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module four_MUX
+
+Top level modules:
+	four_MUX
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/reg_8.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/reg_8.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reg_8
+
+Top level modules:
+	reg_8
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/final_cos.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/final_cos.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module final_cos
+
+Top level modules:
+	final_cos
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/DP_TB.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/DP_TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DP_TB
+
+Top level modules:
+	DP_TB
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/mult.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/mult.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mult
+
+Top level modules:
+	mult
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/final_cos.vo {1 {vlog -work work -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/final_cos.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module final_cos_2
+-- Compiling module hard_block
+
+Top level modules:
+	final_cos_2
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/cos_TB.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/cos_TB.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cos_TB
+
+Top level modules:
+	cos_TB
+
+} {} {}} C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/two_MUX.sv {1 {vlog -work work -sv -stats=none C:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/full_circuit/two_MUX.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module two_MUX
+
+Top level modules:
+	two_MUX
+
+} {} {}}

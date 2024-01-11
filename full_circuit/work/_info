@@ -1,0 +1,439 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mosta/Desktop/MKermani01575-CA06-ECE367/DP
+vadder
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1704878699
+!i10b 1
+!s100 oV31bcED6A2QQS?f]66O60
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IOn87`=4og8bCQYa2>=JO60
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/mosta/Desktop/presenrt/full_circuit
+w1704767343
+8C:/Users/mosta/Desktop/presenrt/full_circuit/adder.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/adder.sv
+!i122 32
+L0 3 5
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1704878698.000000
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/adder.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/adder.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vcomparator
+R0
+R1
+!i10b 1
+!s100 G]aTikYA9]HQ[?527bRaJ1
+R2
+I@m^zeK1z@D=hZ7zO^h9J;3
+R3
+S1
+R4
+w1704767358
+8C:/Users/mosta/Desktop/presenrt/full_circuit/comparator.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/comparator.sv
+!i122 33
+L0 2 3
+R5
+r1
+!s85 0
+31
+Z8 !s108 1704878699.000000
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/comparator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/comparator.sv|
+!i113 1
+R6
+R7
+vcontroller
+R0
+R1
+!i10b 1
+!s100 cgAa`Sb<<[d?_oJ14J<eO1
+R2
+IAi;;R2@ak^ziFZ90kSVdj2
+R3
+S1
+R4
+w1704767898
+8C:/Users/mosta/Desktop/presenrt/full_circuit/controller.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/controller.sv
+!i122 34
+L0 2 68
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/controller.sv|
+!i113 1
+R6
+R7
+vcos_TB
+R0
+R1
+!i10b 1
+!s100 :EM0@J9Gh:UPT5KedI0Vj1
+R2
+IJmSRcC65;;BCcO0RgiolH2
+R3
+S1
+R4
+w1704769235
+8C:/Users/mosta/Desktop/presenrt/full_circuit/cos_TB.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/cos_TB.sv
+!i122 35
+L0 2 48
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/cos_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/cos_TB.sv|
+!i113 1
+R6
+R7
+ncos_@t@b
+vDP
+R0
+R1
+!i10b 1
+!s100 B_R:R2^mQ8AbX>cBNEJFS1
+R2
+ILk22>0dj^Jc33[0NWHj?;0
+R3
+S1
+R4
+w1704767094
+8C:/Users/mosta/Desktop/presenrt/full_circuit/DP.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/DP.sv
+!i122 36
+L0 2 115
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/DP.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/DP.sv|
+!i113 1
+R6
+R7
+n@d@p
+vDP_TB
+R0
+R1
+!i10b 1
+!s100 >:R<9Y;Z<D]S4gfzN]oac0
+R2
+IYNQ9k865g1CQU@eY`kEa=3
+R3
+S1
+R4
+w1704767113
+8C:/Users/mosta/Desktop/presenrt/full_circuit/DP_TB.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/DP_TB.sv
+!i122 37
+L0 2 28
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/DP_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/DP_TB.sv|
+!i113 1
+R6
+R7
+n@d@p_@t@b
+vfinal_cos
+R0
+R1
+!i10b 1
+!s100 GT8nHlfnFiz6ZM4XcTi=_1
+R2
+Idml<la5X@V:J:nDIkiHm<1
+R3
+S1
+R4
+w1704769778
+8C:/Users/mosta/Desktop/presenrt/full_circuit/final_cos.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/final_cos.sv
+!i122 38
+L0 2 60
+R5
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/final_cos.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/final_cos.sv|
+!i113 1
+R6
+R7
+vfinal_cos_2
+Z9 !s110 1704878700
+!i10b 1
+!s100 ]]>]R1b5Ba5D1?[o]OR?60
+R2
+IO3o73eUSTZC5Xo2d49C;Y1
+R3
+R4
+Z10 w1704769165
+Z11 8C:/Users/mosta/Desktop/presenrt/full_circuit/final_cos.vo
+Z12 FC:/Users/mosta/Desktop/presenrt/full_circuit/final_cos.vo
+!i122 39
+L0 32 4822
+R5
+r1
+!s85 0
+31
+R8
+Z13 !s107 C:/Users/mosta/Desktop/presenrt/full_circuit/final_cos.vo|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/final_cos.vo|
+!i113 1
+Z15 o-work work
+R7
+vfour_bit_counter
+R0
+R9
+!i10b 1
+!s100 gfT?>b?c]V=_e`TG`VBYl2
+R2
+I>:Ikj_^QHLHChUb3Ha1<X0
+R3
+S1
+R4
+w1704766976
+8C:/Users/mosta/Desktop/presenrt/full_circuit/four_bit_counter.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/four_bit_counter.sv
+!i122 40
+L0 2 10
+R5
+r1
+!s85 0
+31
+Z16 !s108 1704878700.000000
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/four_bit_counter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/four_bit_counter.sv|
+!i113 1
+R6
+R7
+vfour_MUX
+R0
+R9
+!i10b 1
+!s100 jLEE8WX`Ig0oo5?66e0lL2
+R2
+In]Ch_Z3bNFPIMD4Ckj5YE3
+R3
+S1
+R4
+w1704766772
+8C:/Users/mosta/Desktop/presenrt/full_circuit/four_MUX.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/four_MUX.sv
+!i122 41
+Z17 L0 2 5
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/four_MUX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/four_MUX.sv|
+!i113 1
+R6
+R7
+nfour_@m@u@x
+vhard_block
+R9
+!i10b 1
+!s100 9Cg]NFf:7QC]69PDc31Ec2
+R2
+IbiINgZ`fUW7j_KNWM4Ne20
+R3
+R4
+R10
+R11
+R12
+!i122 39
+L0 4855 34
+R5
+r1
+!s85 0
+31
+R8
+R13
+R14
+!i113 1
+R15
+R7
+vmult
+R0
+R9
+!i10b 1
+!s100 zD3WjHHfn8U91?G5z:6C31
+R2
+I0o8O06CA6BmU=m?]f@^a10
+R3
+S1
+R4
+w1704767032
+8C:/Users/mosta/Desktop/presenrt/full_circuit/mult.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/mult.sv
+!i122 42
+R17
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/mult.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/mult.sv|
+!i113 1
+R6
+R7
+vreg_16
+R0
+R9
+!i10b 1
+!s100 BFYEzYl;0K69RcH<W;6`:3
+R2
+IHOoh4OZKn0N^TeCE6oB700
+R3
+S1
+R4
+w1704766726
+8C:/Users/mosta/Desktop/presenrt/full_circuit/reg_16.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/reg_16.sv
+!i122 44
+L0 3 8
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/reg_16.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/reg_16.sv|
+!i113 1
+R6
+R7
+vreg_8
+R0
+R9
+!i10b 1
+!s100 jBTO09E?BPYCGndlE9LT^3
+R2
+I=N^OZ8ojiOhj^l^RDTiJS1
+R3
+S1
+R4
+w1704766536
+8C:/Users/mosta/Desktop/presenrt/full_circuit/reg_8.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/reg_8.sv
+!i122 43
+L0 2 9
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/reg_8.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/reg_8.sv|
+!i113 1
+R6
+R7
+vROM
+R0
+R9
+!i10b 1
+!s100 jH4e@NJJlEbiXZd;5<h?h1
+R2
+IR@6LfR?IJPK27T0XQSFT_3
+R3
+S1
+R4
+w1704766482
+8C:/Users/mosta/Desktop/presenrt/full_circuit/ROM.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/ROM.sv
+!i122 45
+L0 2 32
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/ROM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/ROM.sv|
+!i113 1
+R6
+R7
+n@r@o@m
+vtoggle_FF
+R0
+R9
+!i10b 1
+!s100 j^:^CjXEEKE^zmA2>zcW>1
+R2
+IVmnEIcXmJNPEjElhZY;E`2
+R3
+S1
+R4
+w1704766505
+8C:/Users/mosta/Desktop/presenrt/full_circuit/toggle_FF.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/toggle_FF.sv
+!i122 46
+L0 2 15
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/toggle_FF.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/toggle_FF.sv|
+!i113 1
+R6
+R7
+ntoggle_@f@f
+vtwo_MUX
+R0
+R9
+!i10b 1
+!s100 KgF[m:?H`MZ@9ckdV7l`a2
+R2
+IJd^J]MCAk81coWcYD@kM50
+R3
+S1
+R4
+w1704766788
+8C:/Users/mosta/Desktop/presenrt/full_circuit/two_MUX.sv
+FC:/Users/mosta/Desktop/presenrt/full_circuit/two_MUX.sv
+!i122 47
+L0 2 4
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/mosta/Desktop/presenrt/full_circuit/two_MUX.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mosta/Desktop/presenrt/full_circuit/two_MUX.sv|
+!i113 1
+R6
+R7
+ntwo_@m@u@x

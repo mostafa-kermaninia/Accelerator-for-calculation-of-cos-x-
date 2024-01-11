@@ -1,0 +1,22 @@
+WIDTH=8;
+DEPTH=16;
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+CONTENT BEGIN
+00 : FF;                -- memory address : data
+01 : 80;
+02 : 55;
+03 : 40;
+04 : 33;
+05 : 2A;
+06 : 24;
+07 : 20;
+08 : 1C;
+09 : 19;
+0A : 17;
+0B : 15;
+0C : 13;
+0D : 12;
+0E : 11;
+0F : 10;
+END;
